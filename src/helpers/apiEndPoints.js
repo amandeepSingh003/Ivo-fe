@@ -1,0 +1,6 @@
+export const REGISTER = "/auth/signup/"
+export const LOGIN = "/auth/login/"
+export const FORGOT_PASSWORD = "/auth/forgot-password/"
+export const OTP_VERIFICATION = "/auth/verify-email/"
+export const CREATE_NEW_PASSWORD = "/auth/forgot-password/"
+export const SEND_OTP = "/auth/send-otp/"
